@@ -1,7 +1,3 @@
 ---
-paragraph : Hello World
----
-aaa
----
-title : abc
+hello world
 ---
